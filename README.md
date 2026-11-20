@@ -1,66 +1,66 @@
 # 👋 Hi, I'm Kim
 
-我做 AI 产品，也自己把它们做出来：从一个念头开始，写需求、定机制、做视觉，再和一组 AI Agent 一起把它开发、测试、上线。
+I design AI products and build them myself: starting from an idea, I write the spec, shape the mechanics and the visuals, then ship it together with a team of AI agents.
 
-我关心的问题只有一个：人和人、人和 AI 之间，靠什么连接起来。下面每一个项目，都是对这个问题的一次回答。
+I keep coming back to one question: what actually connects people to each other, and people to AI. Every project below is one attempt at an answer.
 
 ---
 
 ## 🧭 About Me
 
-- 🧩 关注 **AI 陪伴**、**情绪与关系类产品**、**多人实时互动** 和 **Agent 工具**
-- 🤖 日常以多 Agent 协作的方式交付：分工、验收标准、测试门槛都写清楚，再让 Agent 去跑
-- 🎨 每个产品都有一套自己的世界观、机制和视觉，不套模板
-- 🏆 「理想型·加载中」获深圳灰客松 **最佳创意奖**，当天做完，现场拿到投资意向
-- 🛠️ 顺手给自己造工具：点餐助手、发布前安检、剪贴板、项目控制台
-- 🚪 想看完整作品，可以直接进我的 3D 作品站：[kims-room.pages.dev](https://kims-room.pages.dev)
+- 🧩 Interested in **AI companions**, **emotion and relationship products**, **real-time multiplayer**, and **agent tooling**
+- 🤖 Working agent-first: I define the roles, acceptance criteria, and test gates, then let agents do the building
+- 🎨 Giving every product its own world, mechanics, and visual language instead of a template
+- 🏆 **Best Creativity Award** at a Shenzhen hackathon for *Ideal Type: Loading*, built in a single day
+- 🛠️ Building small tools for my own workflow: ordering, pre-release checks, clipboard, project control
+- 🚪 The full portfolio lives in a 3D room you can walk through: [kims-room.pages.dev](https://kims-room.pages.dev)
 
 ---
 
 ## 🚀 Selected Work
 
-### 🫧 AI 陪伴与情绪产品
+### 🫧 AI Companions & Emotion
 
-我想做的不是"安慰你"的产品，而是让人把自己看得更清楚一点的产品。
+I'm less interested in products that comfort you than in products that help you see yourself a little more clearly.
 
-- [屿 · Isle](https://github.com/kimniniup-creator/yu-isle-releases) — 一位常驻的 AI 伙伴，Android 客户端持续发版，已到 v1.0.91
-- [潮汐](https://github.com/kimniniup-creator/chaoxi) — 情绪救援游戏：负面情绪会长成一座岛，引导者陪你把每件心事翻面，不删除，只转化
-- [溯因 Upstream](https://suyin.vercel.app) — 写下此刻，系统推断一件更早的具体小事；你来校准，下次更准
-- [海风](https://github.com/kimniniup-creator/haifeng) — 放一张照片、写一句话，桌面机器人围绕它回应，把今天的一小片留下来
+- [Isle (屿)](https://github.com/kimniniup-creator/yu-isle-releases) — an always-on AI companion with its own Android client, shipping continuously
+- [Tide (潮汐)](https://github.com/kimniniup-creator/chaoxi) — an emotional rescue game: your negative feelings grow into an island, and a guide helps you turn each one over rather than delete it
+- [Upstream (溯因)](https://suyin.vercel.app) — write down this moment, and the system infers one specific earlier event; you calibrate it, and it gets sharper next time
+- [Sea Breeze (海风)](https://github.com/kimniniup-creator/haifeng) — drop in a photo and one sentence, and a desktop robot responds to it, keeping a small piece of today
 
-Focus：情绪结构化、推断与校准、陪伴角色的语气和分寸、不走向说教。
+Focus: structured emotion modeling, inference and calibration, companion voice and restraint, never lecturing.
 
-### 🎲 多人实时与游戏化
+### 🎲 Real-Time Multiplayer & Games
 
-把一个机制做到好玩，再让传播长在玩法里。
+Make one mechanic genuinely fun, then let sharing grow out of the gameplay itself.
 
-- [理想型·加载中](https://aftertaste.bicamind.ai/) — 多人实时酒桌局：打分、盲猜、罚酒，局末由 AI 生成今晚主角的理想型画像与分享海报
-- [我无罪](https://not-guilty-infistteams-projects.vercel.app) — 法医心理题材的多人推理桌游，判决引擎经 9 轮、约 10 万局蒙特卡洛模拟调平衡
-- [人生当铺](https://github.com/kimniniup-creator/life-pawnshop) — 多人在线卡牌：典当与赎回的经济系统，过期即"死当"，逼出真实取舍
-- [满分 Agent](https://manfen-agent.kimnin-iup.workers.dev) — 给一个"满分 Agent"的毛病打分，它按你扣分的形状反推你的职业（[源码](https://github.com/kimniniup-creator/manfen-agent)）
-- [理想型题库审阅工具](https://github.com/kimniniup-creator/ideal-type-question-review) — 700+ 道题的全量审阅与质检
+- [Ideal Type: Loading (理想型·加载中)](https://aftertaste.bicamind.ai/) — a real-time party game: score, guess blind, drink, and get an AI-generated portrait of tonight's ideal type as a shareable poster
+- [Not Guilty (我无罪)](https://not-guilty-infistteams-projects.vercel.app) — a multiplayer forensic-psychology deduction game, with a verdict engine balanced across 9 tuning rounds and ~100k Monte Carlo simulations
+- [Life Pawnshop (人生当铺)](https://github.com/kimniniup-creator/life-pawnshop) — an online card game built on a pawn-and-redeem economy where unredeemed items are gone for good
+- [Perfect Agent (满分 Agent)](https://manfen-agent.kimnin-iup.workers.dev) — rate the flaws of a "perfect" AI agent, and it infers your profession from the shape of your scores ([source](https://github.com/kimniniup-creator/manfen-agent))
+- [Question Review Tool](https://github.com/kimniniup-creator/ideal-type-question-review) — full review and QA across a 700+ question bank
 
-Focus：机制设计、数值平衡、实时多人房间、把分享入口做进结算环节。
+Focus: mechanic design, balance tuning, real-time rooms, and building the share moment into the end of a round.
 
-### 🤖 Agent 工具与 MCP
+### 🤖 Agent Tools & MCP
 
-给 Agent 一个清楚的边界，它就能替你把一件具体的事做完。
+Give an agent a clear boundary, and it can finish one concrete job for you.
 
-- [mcd-best-order](https://github.com/kimniniup-creator/mcd-best-order) — 麦当劳点餐助手：在 Claude Code 或 Codex 里说想吃什么，它查门店、比价、给出最低价和付款链接
-- [GreenLight 发布绿灯](https://kims-room.pages.dev/greenlight/) — AI 改完网站，发布前先过一道只读安检，给出"可以发 / 先别发"的判决（交互演示）
-- [vibe-hub](https://github.com/kimniniup-creator/vibe-hub) — 本机项目控制台，把终端、Agent、文件和下载收在一处
-- [codexbar-task-usage](https://github.com/kimniniup-creator/codexbar-task-usage) — CodexBar 的分支，补上按任务分组的本地用量视图
+- [mcd-best-order](https://github.com/kimniniup-creator/mcd-best-order) — a McDonald's ordering assistant for Claude Code and Codex: say what you want, and it finds the store, compares prices, and returns the cheapest order with a payment link
+- [GreenLight](https://kims-room.pages.dev/greenlight/) — a read-only checkpoint that inspects an AI-edited site before release and returns a plain verdict: ship it, or don't (interactive demo)
+- [vibe-hub](https://github.com/kimniniup-creator/vibe-hub) — a local control center for terminals, agents, files, and downloads
+- [codexbar-task-usage](https://github.com/kimniniup-creator/codexbar-task-usage) — a CodexBar fork that adds local usage grouped by task
 
-Focus：MCP 工具设计、只读与可解释、把检查结果翻译成人话、Agent 的验收标准。
+Focus: MCP tool design, read-only and explainable checks, plain-language verdicts, and acceptance criteria for agents.
 
-### 🔩 硬件与实体
+### 🔩 Hardware & Physical
 
-- [Tenfold 十日环](https://github.com/kimniniup-creator/tenfold-ai-hardware) — AI 随身硬件：从 PRD、工业设计到 M5Stick 上的像素宠物阅读书签固件
-- [黄伞信物](https://github.com/kimniniup-creator/yellow-umbrella-charm) — 可开合的 3D 打印小摆件，零件参数化生成
+- [Tenfold (十日环)](https://github.com/kimniniup-creator/tenfold-ai-hardware) — AI everyday-carry hardware, from PRD and industrial design to pixel-pet reading-bookmark firmware on an M5Stick
+- [Yellow Umbrella Charm](https://github.com/kimniniup-creator/yellow-umbrella-charm) — a 3D-printable umbrella charm that opens and closes, with parametrically generated parts
 
-### 🖥️ 桌面小工具
+### 🖥️ Desktop Utilities
 
-- [Win 剪贴板](https://github.com/kimniniup-creator/win-clipboard) — 本机剪贴板历史、框选截图、图片文字提取与常用语，全部离线
+- [win-clipboard](https://github.com/kimniniup-creator/win-clipboard) — clipboard history, region screenshots, on-device OCR, and saved snippets, fully offline
 
 ---
 
@@ -82,26 +82,26 @@ Focus：MCP 工具设计、只读与可解释、把检查结果翻译成人话�
 
 ## 📌 Interests
 
-- AI 陪伴与长期关系
-- 情绪与心理类产品
-- 多 Agent 协作与验收设计
-- MCP 与 Agent 工具
-- 机制设计与数值平衡
-- 多人实时互动
-- 世界观与视觉叙事
-- AI 硬件与实体交互
+- AI companions and long-term relationships
+- Emotion and psychology products
+- Multi-agent collaboration and acceptance design
+- MCP and agent tooling
+- Mechanic design and balance
+- Real-time multiplayer
+- World-building and visual storytelling
+- AI hardware and physical interaction
 
 ---
 
 ## 📫 Contact
 
-想聊 AI 陪伴、Agent 工具，或者任何好玩的产品，欢迎找我：
+If you want to talk about AI companions, agent tools, or any product that's fun to build, reach me through:
 
-- 作品站：[kims-room.pages.dev](https://kims-room.pages.dev)
-- Email：kimliumob@outlook.com
+- Portfolio: [kims-room.pages.dev](https://kims-room.pages.dev)
+- Email: kimliumob@outlook.com
 
 ---
 
 <p align="center">
-  <sub>把每一个关于"连接"的念头，做成一台可以打开的机器。</sub>
+  <sub>Turning every thought about connection into a machine you can open.</sub>
 </p>
